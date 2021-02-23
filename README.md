@@ -1,1 +1,3 @@
 # CS-498-Introduction-to-Deep-Learning
+
+This course will provide an elementary hands-on introduction to neural networks and deep learning. Topics covered will include: linear classifiers; multi-layer neural networks; back-propagation and stochastic gradient descent; convolutional neural networks and their applications to computer vision tasks like object detection and dense image labeling; recurrent neural networks and state-of-the-art sequence models like transformers; generative models (generative adversarial networks and variational autoencoders); and deep reinforcement learning. Coursework will consist of programming assignments in Python (primarily PyTorch). 
