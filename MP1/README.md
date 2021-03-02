@@ -2,9 +2,9 @@
 
 In this assignment, implement simple linear classifiers and run them on two different datasets:
 
-	- Mushroom dataset: a simple categorical binary classification dataset. Please note that the labels in the dataset are 0/1, as opposed to -1/1 as in the lectures, so you may have to change either the labels or the derivations of parameter update rules accordingly.
+- Mushroom dataset: a simple categorical binary classification dataset. Please note that the labels in the dataset are 0/1, as opposed to -1/1 as in the lectures, so you may have to change either the labels or the derivations of parameter update rules accordingly.
 
-	- CIFAR-10: a multi-class image classification dataset
+- CIFAR-10: a multi-class image classification dataset
 
 The goal of this assignment is to help you understand the fundamentals of a few classic methods and become familiar with scientific computing tools in Python. You will also get experience in hyperparameter tuning and using proper train/validation/test data splits.
 
