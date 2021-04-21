@@ -1,4 +1,4 @@
-# Assignment 1: Multi-Layer Neural Networks
+# Assignment 2: Multi-Layer Neural Networks
 
 In this assignment you will implement multi-layer neural networks on the CIFAR-10 image classification dataset, which was used in Assignment 1 as well. 
 The goal of this assignment is to help you understand the fundamentals of neural networks and backpropagation. 
